@@ -1,0 +1,8 @@
+.upInput {
+    border: none;
+    font-size: 18px;
+}
+
+.buttons{
+    display: flex;
+}
